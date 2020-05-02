@@ -1,0 +1,105 @@
+newmtl Carro:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 7f262604d61eb1a0aaf4121f27de9134.jpg
+Ni 1.00
+newmtl Carro:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Carro:lambert7SG
+illum 4
+Kd 0.78 0.78 0.78
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Carro:lambert8SG
+illum 4
+Kd 1.00 1.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Carro:lambert10SG
+illum 4
+Kd 1.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Carro:lambert11SG
+illum 4
+Kd 0.23 0.23 0.23
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 7f262604d61eb1a0aaf4121f27de9134.jpg
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert7SG
+illum 4
+Kd 0.78 0.78 0.78
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert8SG
+illum 4
+Kd 1.00 1.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert9SG
+illum 4
+Kd 0.50 0.50 0.07
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert10SG
+illum 4
+Kd 1.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert11SG
+illum 4
+Kd 0.23 0.23 0.23
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Escudo_Policía_Estatal_de_Campeche.png
+Ni 1.00
+newmtl lambert14SG
+illum 4
+Kd 0.00 0.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
